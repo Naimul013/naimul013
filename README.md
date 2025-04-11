@@ -1,5 +1,11 @@
-## Hi there 👋
+# About me👋
+### I am Naimul, a psychology major student from University of Dhaka. I warn you, I can read your mind.
+### I have this strong interest in technology specially coding. I have intermediate understanding in Python and have some beginner experience in using libraries like Pandas, Numpy. Now I am learning django framework. 
 
+### Send me tips about my backend developing journey: mdnaimul01315@gmail.com (If you need any therapy you can knock me too :3)
+
+
+# Might add new stuffs later.
 <!--
 **Naimul013/naimul013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
